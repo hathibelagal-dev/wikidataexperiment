@@ -1,0 +1,13 @@
+omnivore=Q164509
+life=Q3
+woman=Q467
+cat=Q146
+dog=Q144
+crazy=Q505619
+what=Q12892367
+love=Q316
+car=Q1420
+human=Q5
+face=Q37017
+heart=Q1072
+happiness=Q8
